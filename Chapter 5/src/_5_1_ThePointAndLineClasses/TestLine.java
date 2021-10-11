@@ -1,7 +1,7 @@
 package _5_1_ThePointAndLineClasses;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 public class TestLine {
